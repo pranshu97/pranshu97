@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranshu Mishra</h1>
+<h1 align="center">Hi 👋, I'm Pranshu </h1>
 <h3 align="left">I am a data scientist with a curious mind and a passion for problem solving and R&D.</br>I like to keep myself updated with the latest research in deep learning and computer vision.</br>I love coding and prefer my code clean and modular.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshu97&label=Profile%20views&color=0e75b6&style=flat" alt="pranshu97" /> </p>
