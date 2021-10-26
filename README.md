@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranshu </h1>
-<h3 align="left">I am a data scientist with a curious mind and a passion for problem solving and R&D. <br>
-I have experience in model training, optimization, and deployment, specializing in Computer Vision and Natural Language Processing. <br>
+<h3 align="left">I am a data scientist with a curious mind and a passion for problem solving and R&D. I have experience in model training, optimization, and deployment, specializing in Computer Vision and Natural Language Processing. <br>
 I like implementing new model architectures from research papers and I like to keep myself updated with the latest research in AI. <br>
 I love coding and prefer my code clean and modular.</h3>
 
