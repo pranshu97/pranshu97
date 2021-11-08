@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Pranshu </h1>
-<h3 align="left">I am a Machine Learning Scientist with a curious mind and a passion for problem solving, Engineering and Research with experience in Computer Vision and Natural Language Processing. I like reading and implementing Research Papers in Deep Learning and Artificial Intelligence. <br> <br>
+<h3 align="left">I am a Machine Learning Scientist with a curious mind and a passion for problem solving, Developement and Research with experience in Computer Vision and Natural Language Processing. I like reading and implementing Research Papers in Deep Learning and Artificial Intelligence. <br> <br>
 
 How to reach me: **pranshumshr.04@gmail.com**
 
