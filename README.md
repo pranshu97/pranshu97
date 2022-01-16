@@ -1,9 +1,9 @@
 <h1 align="center">Hi! I'm Pranshu </h1>
-<h3 align="left">I am a data scientist having 1+ years of experience with a curious mind and a passion for problem solving, Research and Development.
+<h3 align="left">I am a Machine Learning Engineer having 1+ years of experience with a curious mind and a passion for problem solving, Research and Development.
 <br>
 I have experience in the development, optimization, and deployment of Artificial Intelligence based solutions, specializing in Computer Vision and Natural Language Processing.
 <br>
-I am a Kaggle Expert in the notebooks section. I like reading and implementing research papers. I love coding and designing solutions for interesting problems.
+I am a Kaggle Expert (notebooks). I like reading and implementing research papers. I love coding and designing solutions for interesting problems.
 <br> <br>
 
 How to reach me: **pranshumshr.04@gmail.com**
