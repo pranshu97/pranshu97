@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Pranshu </h1>
-<h3 align="left">I am a Applied Scientist (ML Scientist) at Amazon having 2+ years of experience with a curious mind and a passion for problem solving, Research and Development.
+<h3 align="left">I am an Applied Scientist (Machine Learning Scientist) at Amazon having 2.5+ years of experience with a curious mind and a passion for problem solving, Research and Development.
 <br>
 I have experience in the development, optimization, and deployment of Artificial Intelligence based solutions, specializing in Computer Vision and Natural Language Processing.
 <br>
