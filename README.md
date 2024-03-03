@@ -1,8 +1,8 @@
 <h1 align="center">Hi! I'm Pranshu </h1>
-<h3 align="left">I am an Applied Scientist (Machine Learning Scientist) at Amazon having 3+ years of experience with a curious mind and a passion for problem solving, Research and Development.
-<br>
-I have experience in the development, optimization, and deployment of Artificial Intelligence based solutions, specializing in Computer Vision and Natural Language Processing.
-<br>
+<h3 align="left">I am an Applied Scientist (Machine Learning Scientist) at Amazon having 3+ years of experience with a curious mind and a passion for problem-solving, Research, and Development.
+<br> <br>
+I have experience in developing, optimizing, and deploying Artificial Intelligence based solutions, across Computer Vision, Natural Language Processing, Audio, and Classical ML.
+<br> <br>
 I am a Kaggle Expert (notebooks). I like reading and implementing research papers. I love coding and designing solutions for interesting problems.
 <br> <br>
 
