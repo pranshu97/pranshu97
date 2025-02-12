@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Pranshu </h1>
-<h3 align="left">I am an Applied Scientist 2 (Machine Learning Scientist 2) at Microsoft having ~4 years of experience with a curious mind and a passion for problem-solving, Research, and Development.
+<h3 align="left">I am an Applied Scientist 2 (Machine Learning Scientist 2) at Microsoft having 4+ years of experience with a curious mind and a passion for problem-solving, Research, and Development.
 <br> <br>
 I have experience in developing, optimizing, and deploying Artificial Intelligence based solutions, across Computer Vision, Natural Language Processing, Audio, and Classical ML.
 <br> <br>
