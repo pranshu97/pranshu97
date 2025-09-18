@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Pranshu </h1>
-<h3 align="left">I’m an Applied Scientist with 4.5+ years of experience building scalable and intelligent AI/ML solutions across Search, Multimedia, Medical Imaging, and Surveillance domains. My expertise lies at the intersection of Computer Vision, NLP, Audio Processing, Generative AI, and Multimodal Machine Learning.
+<h3 align="left">I’m an Applied Scientist with ~5+ years of experience building scalable and intelligent AI/ML solutions across Search, Multimedia, Medical Imaging, and Surveillance domains. My expertise lies at the intersection of Computer Vision, NLP, Audio Processing, Generative AI, and Multimodal Machine Learning.
 <br> <br>
 
 At Microsoft Bing, I lead initiatives in Responsible AI, including classifier development, adversarial evaluation, and automation pipelines — working at search engine scale with 100B+ queries, ensuring ethical and robust AI deployment. Previously at Amazon Prime Video, I worked on metadata generation, music and apparel detection in videos, and multimodal models powering product discovery — delivering automation that impacted 10B+ streams.
